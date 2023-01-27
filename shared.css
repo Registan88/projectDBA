@@ -9,8 +9,10 @@ body {
 
 .main-header {
     width: 100%;
+    position: fixed;
     background-color: #2ddf5c; 
     height: 35px;
+    z-index: 999;
  }
 
 .main-header > div {
